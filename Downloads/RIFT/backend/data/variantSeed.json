@@ -1,0 +1,37 @@
+[
+  {
+    "rsid": "rs9923231",
+    "gene": "VKORC1",
+    "star": "*2",
+    "impact": "intron variant",
+    "function": "decreased expression"
+  },
+  {
+    "rsid": "rs1799853",
+    "gene": "CYP2C9",
+    "star": "*2",
+    "impact": "missense",
+    "function": "decreased function"
+  },
+  {
+    "rsid": "rs1057910",
+    "gene": "CYP2C9",
+    "star": "*3",
+    "impact": "missense",
+    "function": "poor function"
+  },
+  {
+    "rsid": "rs3892097",
+    "gene": "CYP2D6",
+    "star": "*4",
+    "impact": "splice variant",
+    "function": "non-functional"
+  },
+  {
+    "rsid": "rs1065852",
+    "gene": "CYP2D6",
+    "star": "*10",
+    "impact": "missense",
+    "function": "decreased function"
+  }
+]

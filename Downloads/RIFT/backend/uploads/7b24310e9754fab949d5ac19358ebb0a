@@ -1,0 +1,16 @@
+##fileformat=VCFv4.2
+##source=PharmaGuard_Simulation
+##reference=GRCh38
+##INFO=<ID=GENE,Number=1,Type=String,Description="Gene symbol">
+##INFO=<ID=STAR,Number=1,Type=String,Description="Star allele designation">
+##INFO=<ID=IMPACT,Number=1,Type=String,Description="Functional impact">
+##INFO=<ID=RS,Number=1,Type=String,Description="dbSNP rsID">
+#CHROM  POS       ID          REF ALT QUAL FILTER INFO
+10      96521616  rs3892097   C   T   .    PASS   GENE=CYP2D6;STAR=*4;IMPACT=Loss_of_Function;RS=rs3892097
+10      96522474  rs1065852   G   A   .    PASS   GENE=CYP2D6;STAR=*10;IMPACT=Reduced_Function;RS=rs1065852
+10      94761900  rs4244285   G   A   .    PASS   GENE=CYP2C19;STAR=*2;IMPACT=Loss_of_Function;RS=rs4244285
+10      94780653  rs4986893   G   A   .    PASS   GENE=CYP2C19;STAR=*3;IMPACT=Loss_of_Function;RS=rs4986893
+10      96741053  rs1057910   A   C   .    PASS   GENE=CYP2C9;STAR=*3;IMPACT=Reduced_Function;RS=rs1057910
+12      21331549  rs4149056   T   C   .    PASS   GENE=SLCO1B1;STAR=*5;IMPACT=Reduced_Function;RS=rs4149056
+6       18130918  rs1142345   A   G   .    PASS   GENE=TPMT;STAR=*3C;IMPACT=Loss_of_Function;RS=rs1142345
+1       97915614  rs3918290   G   A   .    PASS   GENE=DPYD;STAR=*2A;IMPACT=Loss_of_Function;RS=rs3918290
